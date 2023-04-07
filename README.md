@@ -1,9 +1,9 @@
-# 3DModelViewer
-Augmented Reality 3D Model Viewer
+
+# Augmented Reality 3D Model Viewer
 
 
-Please find the link to the video for Animations, Mobile deployment and RESTful API
-===================================================================================
+## Please find the link to the video for Animations, Mobile deployment and RESTful API
+
 Click [here](https://youtu.be/RWI1dmwozpY) to go to my video submission
 
 Please import the Vuforia package before running the code.
